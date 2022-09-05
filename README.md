@@ -1,11 +1,11 @@
-###ÖDEVLER KAPSIMINDA YAPTIĞIM PROJELER
+### ÖDEVLER KAPSIMINDA YAPTIĞIM PROJELER
 
 
 
 
 
 www.patika.dev
-### kodluyoruzOrg
+kodluyoruzOrg
 www.patika.dev
 
 
